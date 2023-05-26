@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453183372061",
+    "project_id": "bhanubpsn-d7722",
+    "storage_bucket": "bhanubpsn-d7722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453183372061:android:ba631cd9971fac6f633ff4",
+        "android_client_info": {
+          "package_name": "com.example.bpsn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453183372061-b971co9fns47849g18u0grm8rq637hc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYn8GocI1lYsgwZL5yWXg2kOx9LvDQESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453183372061-b971co9fns47849g18u0grm8rq637hc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
