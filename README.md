@@ -16,3 +16,5 @@ This Project contains the following tools/feature ->
 *Use  of GeoJSON API for earthquakes JSON.
 *Map Controllers.
 *Map Markers.
+
+<img src = "https://github.com/Bhanubpsn/Images_for_projects/blob/master/Earthquake/Earthquake.png">
